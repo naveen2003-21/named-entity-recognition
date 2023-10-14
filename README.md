@@ -34,8 +34,8 @@ We compile the model and fit the train sets and validation sets,We plot the nece
 
 
 ## PROGRAM
-### Developed by: Jeeva Abishake
-### Register number: 212221240018
+### Developed by: A Naveen Kumar
+### Register number: 212221240032
 #### Import required libraries
 ```python
 import matplotlib.pyplot as plt
